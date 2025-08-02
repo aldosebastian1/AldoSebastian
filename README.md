@@ -134,7 +134,7 @@ Complete mobile app design dengan user-centered approach
 
 
 
-# 👋 Hey, I'm [NAMA LENGKAP]
+# 👋 Hey, I'm Aldo Sebastian
 
 <div align="center">
 
