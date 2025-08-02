@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Aldo Sebastian
+# 👋 Hey, I'm [NAMA LENGKAP]
 
 <div align="center">
 
@@ -9,8 +9,8 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldo-sebastian-214134316)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aldosebastian1804@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/aldosebastian1)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@domain.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldosebastian1)
 
 </div>
 
@@ -21,27 +21,25 @@
 <div align="center">
 
 ### 💻 Development
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🎨 Design & Creative
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+### 🎨 Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 
-### 🏢 Microsoft Office Suite
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+### 🏢 Office Suite
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
-### ⚙️ Tools & Platforms
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -69,107 +67,126 @@
 
 <div align="center">
 
-| 🌐 **Personal Portfolio** | 📊 **Excel Management System** |
-|:-------------------------:|:------------------------------:|
-| [![Portfolio](https://img.shields.io/badge/View_Project-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/aldosebastian1) | [![Excel](https://img.shields.io/badge/View_Project-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](#) |
-| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![VBA](https://img.shields.io/badge/VBA-512BD4?style=flat-square&logo=microsoft&logoColor=white) |
-| ✨ Responsive design & modern UI<br/>📱 Mobile-first approach<br/>🚀 Interactive animations | 🔍 Advanced formulas & functions<br/>📈 Interactive dashboards<br/>🤖 Automated reporting system |
+<table>
+<tr>
+<td width="50%">
 
-| 🎨 **UI/UX Mobile Design** | 🎤 **Tech Presentation** |
-|:-------------------------:|:------------------------:|
-| [![Figma](https://img.shields.io/badge/View_Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#) | [![PowerPoint](https://img.shields.io/badge/View_Slides-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](#) |
-| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Prototype](https://img.shields.io/badge/Prototype-9F7AEA?style=flat-square&logo=proto.io&logoColor=white) | ![PPT](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white) ![Animation](https://img.shields.io/badge/Animation-FF69B4?style=flat-square&logo=adobe-after-effects&logoColor=white) |
-| 🧭 User research & wireframing<br/>🎯 High-fidelity prototyping<br/>🧪 Usability testing | 🎨 Custom animated templates<br/>📊 Data visualization<br/>🎭 Interactive storytelling |
+### 🌐 Personal Portfolio Website
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aldosebastian1)
+
+**Tech Stack:**
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+• Responsive design & modern UI  
+• Interactive contact form  
+• Cross-browser compatibility  
+
+</td>
+<td width="50%">
+
+### 📊 Excel Data Management
+[![Live](https://img.shields.io/badge/Live-217346?style=flat-square&logo=microsoft-excel&logoColor=white)](#)
+
+**Features:**
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Dashboard](https://img.shields.io/badge/Dashboard-FF6B35?style=flat-square&logo=databricks&logoColor=white)
+
+• Advanced formulas & functions  
+• Interactive dashboards  
+• Automated reporting system  
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎨 Mobile App UI/UX Design
+[![Design](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](#)
+
+**Design Process:**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Prototype](https://img.shields.io/badge/Prototype-9F7AEA?style=flat-square&logo=proto.io&logoColor=white)
+
+• User research & wireframing  
+• High-fidelity prototyping  
+• Usability testing  
+
+</td>
+<td width="50%">
+
+### 🎤 Tech Presentation
+[![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)](#)
+
+**Highlights:**
+![PPT](https://img.shields.io/badge/PPT-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
+![Animation](https://img.shields.io/badge/Animation-FF69B4?style=flat-square&logo=adobe-after-effects&logoColor=white)
+
+• Custom animated templates  
+• Data visualization  
+• Interactive storytelling  
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🎯 What I Do
 
 ```javascript
 const aldoSebastian = {
-    name: "Aldo Sebastian",
     location: "Medan, Indonesia 🇮🇩",
-    education: "Computer Science - 3rd Semester",
-    currentRole: "Student & Aspiring Developer",
-    
-    specialties: {
-        development: ["HTML5", "CSS3", "JavaScript", "Responsive Design"],
-        design: ["UI/UX Design", "Figma", "Adobe XD", "User Research"],
-        office: ["Excel Expert", "Advanced Formulas", "Data Analysis", "Automation"],
-        database: ["MySQL", "Data Modeling"]
+    education: "3rd Semester Computer Science",
+    currentFocus: ["Web Development", "UI/UX Design", "Office Automation"],
+    technologies: {
+        frontend: ["HTML5", "CSS3", "JavaScript"],
+        design: ["Figma", "Adobe XD", "Canva"],
+        office: ["Excel Expert", "Word", "PowerPoint"],
+        database: ["MySQL"],
+        tools: ["Git", "GitHub", "VS Code"]
     },
-    
-    currentlyLearning: ["React.js", "Node.js", "TypeScript", "Modern Web APIs"],
-    
-    goals2024: [
-        "Build 10+ web projects",
-        "Master React ecosystem", 
-        "Contribute to open source",
-        "Land first internship"
-    ],
-    
-    funFact: "I can make Excel dance! 💃📊",
-    availableForWork: true,
-    openToCollaborate: true
+    currentlyLearning: ["Modern JavaScript", "React", "Node.js"],
+    availableForHire: true
 };
 ```
 
 ---
 
-## 💼 What I Bring to the Table
-
-<div align="center">
-
-| 🎨 **Creative** | 💻 **Technical** | 📊 **Analytical** |
-|:---------------:|:----------------:|:-----------------:|
-| UI/UX Design | Web Development | Data Analysis |
-| Visual Design | Database Management | Excel Automation |
-| Prototyping | Version Control | Problem Solving |
-
-</div>
-
----
-
-## 🌟 GitHub Insights
+## 🌟 Quick Stats
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aldosebastian1&style=for-the-badge&color=58a6ff&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/aldosebastian1?style=for-the-badge&color=58a6ff&labelColor=1c1c1c)
-![Public Repos](https://img.shields.io/badge/Public%20Repos-5-58a6ff?style=for-the-badge&labelColor=1c1c1c)
+![Stars](https://img.shields.io/github/stars/aldosebastian1?style=for-the-badge&color=58a6ff&labelColor=1c1c1c)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect & Build Something Amazing!
-
 <div align="center">
 
+### 💬 Let's Connect & Collaborate!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldo-sebastian-214134316)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aldosebastian1804@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldosebastian1)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@domain.com)
 
 <br>
 
-**💡 Open to:**
-- Freelance Projects
-- Collaboration Opportunities  
-- Internship Positions
-- Learning & Mentorship
+**⚡ Fun Fact:** I can make Excel do things that will blow your mind! 📊✨
 
 </div>
 
----
-
 <div align="center">
 
-**🚀 "The best way to predict the future is to create it!" 🚀**
+---
 
-*Made with ❤️ and lots of ☕ by [Aldo Sebastian](https://github.com/aldosebastian1)*
+*"Code is like humor. When you have to explain it, it's bad."* - Cory House
 
-⭐ **Star my repositories if you find them useful!** ⭐
+**Made with ❤️ by [aldosebastian1](https://github.com/aldosebastian1)**
 
 </div>
